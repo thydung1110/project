@@ -1,0 +1,79 @@
+body, html {
+    height: 100%;
+    margin: 0px;
+  }
+  
+  .bg {
+    background-image: url(https://s3-alpha-sig.figma.com/img/dd8d/f0db/fa4f27b6ab388306bef52c65a8a3da36?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GsvX1yy0XKf4PiN6j8dh0ENrR86wSXiJTohKL9PtowQ4~bdrqhhguwskQw~X4kzqBlwX3zs5-CSUq~uv~HijScor3FyMlXvesHzPmYpjTw10s0GLrchA-tLh4XUtdofsRlwXP3f-yqn9yTZ7nJBn78fxoaXVQg8NGCwwVLH2JJoIx4bMBMiveE1qE6QNFVYZ1WOOij-llUnrJUL3Z8g-6Rf-I01VQhIGhGO8y6DahZxvLx4aFUPLOwR2pgPlrjuUe154VxyrdVpnI~9pfdMwMYefSpCQVnaeI8DHdE-posDano0FADO3SQejN8wGUjy4mVU90OLkt79K3-qnPRBdYg) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.bg-light{
+    display: flex;
+    width: 1487px;
+    height: 128px;
+    background: #120B0B82;
+}
+img{
+    width: 357px;
+    height: 82px;
+    margin-top: 18px;
+    margin-left: 52px;
+}
+.navbar-collapse{
+    display: flex;
+}
+.mr-auto{
+    display: flex;
+    list-style: none;
+    margin-top: 59px;
+}
+.active{
+    padding-right: 106px;
+    color: white;
+}
+.nav-link {
+    padding-left: 77px;
+    text-decoration: none;
+    color: white;
+}
+.dropdown{
+    display: flex;
+    color: white;
+}
+.dropdown-item{
+    padding-left: 80px;
+    color: white;
+    text-decoration: none;
+}
+.form-inline{
+    margin-top: 59px;
+    padding-left: 73px;
+}
+.About{
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+.content{
+    padding: 500px 0px 153px;
+    display: flex;
+    font-size: 24px;
+}
+.group{
+    padding-right: 40px;
+    text-align: center;
+}
+.group2{
+    text-align: center; 
+}
+.fa-users{
+    font-size: 65px;
+}
+.fa-chart-line{
+    font-size: 65px;
+}
